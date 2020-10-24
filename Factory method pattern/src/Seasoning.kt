@@ -1,3 +1,3 @@
-public enum Seasoning {
+enum class Seasoning {
     Fried, Marinated, SoySauceAndGarlic
 }
